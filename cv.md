@@ -15,6 +15,7 @@ I am a React Native Developer with a strong foundation in mobile development. A 
 
 ## Skills
 
+- mobile developer
 - **HTML & CSS**
 - **JS**
 - **TS**
